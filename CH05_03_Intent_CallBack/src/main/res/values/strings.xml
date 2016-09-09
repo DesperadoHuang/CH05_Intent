@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CH05_03_Intent_CallBack</string>
+    <string name="edit_hint_height">請輸入身高?</string>
+    <string name="edit_hint_weight">請輸入體重?</string>
+    <string name="bt_calculator">計算：</string>
+    <string name="error_message">請輸入身高、體重</string>
+    <string name="image1">bmi range chart</string>
+    <string name="image2">calculator</string>
+    <string name="bmi_low">BMI偏低</string>
+    <string name="bmi_normal">BMI正常</string>
+    <string name="bmi_high">BMI偏高</string>
+    <string name="bmi_overhigh">BMI過高</string>
+    <string name="bmi_dangerous">危險</string>
+    <string name="bmi_value_error">BMI 參數錯誤</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ch05_05_intent_activitytransitions.MainActivity">
+
+    <ImageButton
+        android:id="@+id/ibt_taiwan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/ibt_taiwan"
+        android:onClick="onClick"
+        android:src="@drawable/banner1"
+        android:tag="@string/ibt_taiwan"
+        android:transitionName="@string/ibt_taiwan"/>
+
+    <ImageButton
+        android:id="@+id/ibt_sanya"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ibt_taiwan"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/ibt_sanya"
+        android:onClick="onClick"
+        android:src="@drawable/banner2"
+        android:tag="@string/ibt_sanya"
+        android:transitionName="@string/ibt_sanya"/>
+
+    <ImageButton
+        android:id="@+id/ibt_chengde"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ibt_sanya"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/ibt_chengde"
+        android:onClick="onClick"
+        android:src="@drawable/banner3"
+        android:tag="@string/ibt_chengde"
+        android:transitionName="@string/ibt_chengde"/>
+
+    <ImageButton
+        android:id="@+id/ibt_great_wall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ibt_great_wall"
+        android:onClick="onClick"
+        android:src="@drawable/banner4"
+        android:tag="@string/ibt_great_wall"
+        android:transitionName="@string/ibt_great_wall"
+        android:layout_below="@+id/ibt_chengde"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageButton
+        android:id="@+id/ibt_chong_cing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/ibt_chong_cing"
+        android:onClick="onClick"
+        android:src="@drawable/banner5"
+        android:tag="@string/ibt_chong_cing"
+        android:transitionName="@string/ibt_chong_cing"
+        android:layout_below="@+id/ibt_great_wall"
+        android:layout_alignStart="@+id/ibt_great_wall"/>
+
+</RelativeLayout>

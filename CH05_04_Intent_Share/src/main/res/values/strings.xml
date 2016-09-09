@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CH05_04_Intent_Share</string>
+    <string name="input_hint">請輸入要分享的文字</string>
+    <string name="bt_share_text">分享文字</string>
+    <string name="bt_share_image">分享圖片</string>
+    <string name="share">選擇要分享的對象</string>
+    <string name="bt_share_multiple">分享多筆資料</string>
+</resources>

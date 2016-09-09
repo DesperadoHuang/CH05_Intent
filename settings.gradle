@@ -1,0 +1,1 @@
+include ':CH05_02_Intent_Action', ':CH05_02_Intent_Bundle', ':CH05_03_Intent_CallBack', ':CH05_04_Intent_CallPhone', ':CH05_04_Intent_Camera', ':CH05_04_Intent_Share', ':ch05_05_intent_activitytransitions'

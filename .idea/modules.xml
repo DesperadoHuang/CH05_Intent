@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH05_02_Intent_Action/CH05_02_Intent_Action.iml" filepath="$PROJECT_DIR$/CH05_02_Intent_Action/CH05_02_Intent_Action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_02_intent_bundle/CH05_02_Intent_Bundle.iml" filepath="$PROJECT_DIR$/ch05_02_intent_bundle/CH05_02_Intent_Bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_03_Intent_CallBack/CH05_03_Intent_CallBack.iml" filepath="$PROJECT_DIR$/CH05_03_Intent_CallBack/CH05_03_Intent_CallBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_04_Intent_CallPhone/CH05_04_Intent_CallPhone.iml" filepath="$PROJECT_DIR$/CH05_04_Intent_CallPhone/CH05_04_Intent_CallPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_04_Intent_Camera/CH05_04_Intent_Camera.iml" filepath="$PROJECT_DIR$/CH05_04_Intent_Camera/CH05_04_Intent_Camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_04_Intent_Share/CH05_04_Intent_Share.iml" filepath="$PROJECT_DIR$/CH05_04_Intent_Share/CH05_04_Intent_Share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05_Intent.iml" filepath="$PROJECT_DIR$/CH05_Intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_05_intent_activitytransitions/ch05_05_intent_activitytransitions.iml" filepath="$PROJECT_DIR$/ch05_05_intent_activitytransitions/ch05_05_intent_activitytransitions.iml" />
+    </modules>
+  </component>
+</project>
